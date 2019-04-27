@@ -17,7 +17,7 @@
 # 欢迎您，访客
 [**我的洛谷博客**](https://ark.blog.luogu.org/)
 ## [前往：我的知乎](https://www.zhihu.com/people/minecraftfuns/)
-> [知乎专栏：OI随想 | Ark's Blog](https://zhuanlan.zhihu.com/minecraftfuns)
+> [知乎专栏：OI随想](https://zhuanlan.zhihu.com/minecraftfuns)
 
 **文章推荐**
 * [网络流 （一） 最大流的原理图解](https://zhuanlan.zhihu.com/p/60866032)
